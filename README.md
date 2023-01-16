@@ -1,3 +1,3 @@
 # Web-Apps
 
-[ika](https://haitusense.github.io/Pages/ika)
+[ika](https://haitusense.github.io/Web-Apps/ika)
